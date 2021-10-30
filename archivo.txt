@@ -7,4 +7,4 @@ Quiero seguir agregando mas texto, para poder aprender mas sobre GIT.
 Ahora que he aprendido a realizar commits, quiero ver las diferencias sobre estos.
 Sigo muy emocionado! :)
 
-Empiezo a aprender sobre las RAMAS en git.
+Empiezo a aprender sobre las RAMAS en git. Y ahora quiero realizar un conflicto de prueba para saber como resolverlos.
