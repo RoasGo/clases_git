@@ -1,3 +1,5 @@
 Hola Git!
 Este es mi primera clase y mi primer commit.
 Estoy muy emocionado! :D
+
+Quiero seguir agregando mas texto, para poder aprender mas sobre GIT.
