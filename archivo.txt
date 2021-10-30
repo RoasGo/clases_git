@@ -3,3 +3,6 @@ Este es mi primera clase y mi primer commit.
 Estoy muy emocionado! :D
 
 Quiero seguir agregando mas texto, para poder aprender mas sobre GIT.
+
+Ahora que he aprendido a realizar commits, quiero ver las diferencias sobre estos.
+Sigo muy emocionado! :)
