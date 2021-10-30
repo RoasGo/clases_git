@@ -1,4 +1,4 @@
-Hola Git!
+Hola Git, soy Sebastian!
 Este es mi primera clase y mi primer commit.
 Estoy muy emocionado! :D
 
